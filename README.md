@@ -1,5 +1,5 @@
 # Image_Style_Transfer
-Apply artistic styles (e.g., Van Gogh) to an input image using deep learning.
+Apply artistic styles (for example, Van Gogh) to an input image using deep learning.
 ### This code is part of a course assignment (Image Processing for Engineers), Which I lectured in 2022. ###
 
 **Code Description:**
