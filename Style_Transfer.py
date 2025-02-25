@@ -50,7 +50,7 @@ def get_features(image, model):
         '5': 'conv2_1',
         '10': 'conv3_1',
         '19': 'conv4_1',
-        '21': 'conv4_2',  # Content representation
+        '21': 'conv4_2',  #Content representation
         '28': 'conv5_1'
     }
     features = {}
