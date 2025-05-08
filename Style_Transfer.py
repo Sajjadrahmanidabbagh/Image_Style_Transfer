@@ -1,6 +1,6 @@
 """
 Created on Dec 11 2021
-@author: Sajjad RD
+author: Sajjad RD
 """
 
 import cv2
