@@ -125,7 +125,7 @@ stylized_image = style_transfer(content, style, vgg)
 # Show final image
 show_image(stylized_image, title="Stylized Image")
 
-# Save stylized image
+# Save a stylized image
 output_path = "stylized_image.jpg"
 stylized_image = stylized_image.cpu().clone().detach().squeeze(0)
 stylized_image = stylized_image.numpy().transpose(1, 2, 0)
