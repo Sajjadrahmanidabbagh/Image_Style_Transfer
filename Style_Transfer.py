@@ -2,7 +2,6 @@
 Created on Dec 11 2021
 author: Sajjad RD
 """
-
 import cv2
 import numpy as np
 import torch
